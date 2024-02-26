@@ -37,3 +37,10 @@ steps:
 git add constitution_tea.yaml
 git commit -m "Add constitution file"
 git push origin master
+
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x44a3BA99bd1cc780c89D8c0A852A960c090eaf07'
+quorum: 1
